@@ -10,6 +10,7 @@ const FeedbackButton = styled.div`
   align-items: center;
   padding: 5px 10px;
   cursor: pointer;
+  text-transform: capitalize;
   border: 1px solid transparent;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
